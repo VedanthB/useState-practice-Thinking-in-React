@@ -1,2 +1,2 @@
-# useState-practice-Thinking-in-React
+# birthdates-palindrome
 Created with CodeSandbox
